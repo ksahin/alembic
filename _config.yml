@@ -47,6 +47,9 @@ social: # jekyll-seo-tag > social overrides
     - https://plus.google.com/+DavidDarnes
     - https://github.com/daviddarnes
 
+#theme
+theme: alembic-jekyll-theme
+
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
