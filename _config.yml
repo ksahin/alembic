@@ -86,7 +86,7 @@ baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "hello@pricingbot.co"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+avatarurl: "/assets/logo.svg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
@@ -94,11 +94,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
   Blog: /blog/
   Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
   PricingBot: https://www.pricingbot.co
