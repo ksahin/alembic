@@ -3,7 +3,7 @@ title: Getting started with PricingBot
 categories:
 - General
 - Tutorial
-feature_image: "/assets/images/post1/header-post-1.png"
+feature_image: "/assets/images/post1/rawpixel-652547-unsplash.jpg"
 ---
 
 
