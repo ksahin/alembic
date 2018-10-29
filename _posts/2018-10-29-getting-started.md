@@ -3,11 +3,41 @@ title: Getting started with PricingBot
 categories:
 - General
 - Tutorial
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/assets/images/header-post-1.png"
 ---
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
 
-<!-- more -->
+In this post we're going to see how to configure your PricingBot account. 
 
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
+### Importing your products
+
+Importing your own products is the first step to ...
+
+##### Adding with the Shopify Integration
+
+If you have a Shopify store you can use our one-click integration...
+
+##### Importing a CSV file
+
+You can import your product catalog with the CSV import feature in two simple steps...
+
+
+##### Importing a single product
+
+You can also use the form to import a single product...
+
+### Adding competitors
+
+Now that you have imported your own products, it's time to add some competitors. 
+For each products you have, you can add many competitors with different methods:
+
+##### Form
+
+##### Chrome extension
+
+The Chrome extension is the fastest way to add competitors blabla...
+
+
+#### Next 
+
+Now that everything is set up, you will receive daily alerts about price changes, you can access analytics on https://app.pricingbot.co/dashboard blabla...
