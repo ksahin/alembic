@@ -4,6 +4,8 @@ categories:
 - General
 - Tutorial
 feature_image: "/assets/images/post1/rawpixel-652547-unsplash.jpg"
+image: "/assets/images/post1/rawpixel-652547-unsplash.jpg"
+description: "This blog post explains with simple steps how to get started with PricingBot."
 ---
 
 

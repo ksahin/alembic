@@ -81,7 +81,7 @@ lang: en-GB # Set the site language
 title: "PricingBot" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "PricingBot blog covers the last trends in eCommerce / marketplace, strategies for online price monitoring and pricing." # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.pricingbot.co" # Site url, also used in jekyll-seo-tag
+url: "https://blog.pricingbot.co" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "hello@pricingbot.co"
