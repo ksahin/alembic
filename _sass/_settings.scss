@@ -8,14 +8,14 @@ $accentColour: #0881fe;
 $headingColour: #242e2b;
 $bodyColour: #384743;
 $linkColour: #0881fe;
-$hoverColour: #008000;
+$hoverColour: #0350a0;
 $focusColour: #fa407a;
 $captionColour: #a8adac;
 $white: #ffffff;
 
 // Typography
 $bodytype: (
-  font-family: 'Georgia, serif',
+  font-family: 'Muli, serif',
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,14 +23,14 @@ $bodytype: (
 );
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: '"Muli", serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
 );
 
 $monospacetype: (
-  font-family: 'Menlo, monospace',
+  font-family: 'Muli, monospace',
   regular: 400,
   cap-height: 0.68
 );
