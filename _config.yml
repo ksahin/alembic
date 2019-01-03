@@ -87,7 +87,7 @@ repo: "https://github.com/daviddarnes/alembic"
 email: "hello@pricingbot.co"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/assets/logo.svg" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
-# google_analytics: ''
+google_analytics: 'UA-123177514-2'
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
