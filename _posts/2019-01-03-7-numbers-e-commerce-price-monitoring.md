@@ -4,8 +4,8 @@ categories:
 - General
 - Price monitoring
 - e-commerce
-feature_image: "/assets/images/post1/rawpixel-652547-unsplash.jpg"
-image: "/assets/images/post1/rawpixel-652547-unsplash.jpg"
+feature_image: "/assets/images/post3/neonbrand-258972-unsplash.jpg"
+image: "/assets/images/post3/neonbrand-258972-unsplash.jpg"
 description: "7 Numbers every e-commerce owners should know about or how price monitoring is very important."
 ---
 
@@ -25,11 +25,11 @@ Analyzing more than 1 million data points we discovered that on average a produc
 
 #### 65% of Consumers Look Up Price Comparisons on Mobile While in a Physical Store
 
-While this might not seem important if you run an pure player e-commerce store it highlights the fact that people do really care about pricing. And be sure that if someone sees on your store a product 10% cheaper than the one they are currently holding in their hands in a physical one, they are much more likely to spend money in your business. (2) See by yourself:
+While this might not seem important if you run a pure player e-commerce store it highlights the fact that people do really care about pricing. And be sure that if someone sees on your store a product 10% cheaper than the one they are currently holding in their hands in a physical one, they are much more likely to spend money in your business. (2) See by yourself:
 
 #### 34% of people buying from your store matched price online just prior to the purchase.
 
-Approximately 1 out of 3 buyers will have seen your product because they were checking the price online. It is more than the number people that will make a purchase just after having seen an ad online (30%). Here again you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
+Approximately 1 out of 3 buyers will have seen your product because they were checking the price online. It is more than the number people that will make a purchase just after having seen an ad online (30%). Here again, you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
 
 #### 1st attribute when deciding where to buy if pricing.
 
@@ -37,7 +37,7 @@ When asked about what is the most important attributes for deciding where to buy
 
 #### It can take up to 120 hours a month to efficiently monitor 300 product.
 
-[Price monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 skus and two competitors for each of their products. This is why we developed our solution that allows you to automatically track all your competitor’s products prices while only spending 2 minutes setting up your account.
+[Price monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed our solution that allows you to automatically track all your competitor’s products prices while only spending 2 minutes setting up your account.
 
 #### 20% of people leave checkout because they found the product cheaper elsewhere.
 
