@@ -12,10 +12,10 @@ description: "7 Numbers every e-commerce owners should know about pricing or how
 There are lots of great advice out there to increase conversion rates for online merchants. A great design, a fast website, a great checkout experience, upsells, email marketing, abandoned checkout retargeting...
 Those things are very important but those strategies won't have a deep impact on your conversion rates if your pricing is wrong.
 
+There are more and more consumer apps/websites for price comparison, with millions of users. The largest is, of course, Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/), ... so price is now an easy information for the user to find and you can be sure it matters. In fact it matters a lot.
+
 Here are 7 numbers that should make you really understand how important pricing is. At [PricingBot](https://www.pricingbot.co) we strongly believe that pricing should be a significant, if not, the most significant part of your E-commerce strategy.
 We have built great pricing related products that E-commerce owners love and we want to share with you what we think are the 7 numbers about pricing that you should know.
-
-There are more and more consumer apps/websites for price comparison, with millions of users. The largest is, of course, Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/), ... so price is now an easy information for the user to find and you can be sure it matters. In fact it matters a lot:
 
 #### 63 % of people are here to compare product prices.
 
