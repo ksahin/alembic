@@ -11,12 +11,12 @@ description: "7 Numbers every e-commerce owners should know about pricing or how
 
 
 Here are 7 numbers that should make you really understand how important pricing is. At [PricingBot](https://www.pricingbot.co) we strongly believe that pricing should be a significant, if not, the most significant part of your E-commerce strategy.
-We have built great pricing related products that E-commerce stores owner love and we want to share with you what we think are 7 numbers about pricing that you should know.
+We have built great pricing related products that E-commerce owners love and we want to share with you what we think are the 7 numbers about pricing that you should know.
 
 There are lots of great advices out there to increase conversion rates for online merchants. A great design, a fast website, a great checkout experience, upsells, email marketing, abandonned checkout retargeting... 
-But those strategies won't have a great impact on your conversion rates if your pricing is higher than your competitors. 
+But those strategies won't have a deep impact on your conversion rates if your pricing is higher than your competitors. 
 
-The other issue is that there are more and more consumer app/website for price comparaison, with millions of users. The largest is of course Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/) ... So it's easy for consumers to find good deals
+The other issue is that there are more and more consumer apps/websites for price comparaison, with millions of users. The largest is of course Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/) ... So it's easy for consumers to find good deals
 
 #### 63 % of people are here to compare product prices.
 
@@ -38,7 +38,7 @@ While this might not seem important if you run a pure player E-commerce store it
 
 #### 34% of people buying from your store matched price online just prior to the purchase.
 
-Approximately 1 out of 3 buyers will have seen your product because they were checking the price online. It is more than the number people that will make a purchase just after having seen an ad online (30%). Here again, you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
+Approximately 1 out of 3 buyers will see your product because they were checking the price online. It is more than the number of people that will make a purchase just after seing an ad online (30%). Here again, you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
 
 #### 1st attribute when deciding where to buy if pricing.
 
@@ -46,7 +46,7 @@ When asked about what is the most important attributes for deciding where to buy
 
 #### It can take up to 120 hours a month to efficiently monitor 300 product.
 
-[Price monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed our solution that allows you to automatically track all your competitor’s products prices while only spending 2 minutes setting up your account.
+[Price monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed our solution that allows you to automatically track all your competitor’s product prices while only spending 2 minutes setting up your account.
 
 #### 20% of people leave checkout because they found the product cheaper elsewhere.
 
