@@ -16,7 +16,7 @@ We have built great pricing related products that E-commerce owners love and we 
 There are lots of great advices out there to increase conversion rates for online merchants. A great design, a fast website, a great checkout experience, upsells, email marketing, abandonned checkout retargeting... 
 But those strategies won't have a deep impact on your conversion rates if your pricing is higher than your competitors. 
 
-The other issue is that there are more and more consumer apps/websites for price comparaison, with millions of users. The largest is of course Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/) ... So it's easy for consumers to find good deals
+The other issue is that there are more and more consumer apps/websites for price comparison, with millions of users. The largest is of course Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/) ... So it's easy for consumers to find good deals
 
 #### 63 % of people are here to compare product prices.
 
@@ -24,9 +24,9 @@ According to a recent PWC study, 61% of people visiting E-commerce websites are 
 
 Suggestions are great and can significantly improve your average ticket/basket size, but do not forget that the customer will first and foremost look at the price. (1)
 
-#### 3 is the number of time your competitor will change his prices per month.
+#### 3 is the number of time your competitor will change its prices per month.
 
-![Chart of price changes per month](/assets/images/post3/chart-price-change.jpg)
+![Chart of price changes per month](/assets/images/post3/chart-price-change.jpg){: .center-image }
 
 Analyzing more than 1 million data points we discovered that on average a product price change approximately four times per month. But we also noticed that more than 10% of the websites we monitor change their prices almost 3 times per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
 
