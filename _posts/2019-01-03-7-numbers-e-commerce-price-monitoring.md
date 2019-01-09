@@ -2,7 +2,7 @@
 title: 7  numbers you should absolutely know about e-commerce pricing.
 categories:
 - General
-- Price monitoring
+- Price-monitoring
 - e-commerce
 feature_image: "/assets/images/post3/neonbrand-258972-unsplash.jpg"
 image: "/assets/images/post3/neonbrand-258972-unsplash.jpg"
@@ -10,22 +10,29 @@ description: "7 Numbers every e-commerce owners should know about or how price m
 ---
 
 
-Here are 10 numbers that should make you really understand how important pricing is. Here at [PricingBot](https://www.pricingbot.co) we strongly believe that pricing should be a significant, if not, the most significant part of your strategy.
-Over the last years, we have built great pricing related products that e-commerce stores owner love and we want to share with you what we think are 10 numbers about pricing that you should know.
+Here are 7 numbers that should make you really understand how important pricing is. At [PricingBot](https://www.pricingbot.co) we strongly believe that pricing should be a significant, if not, the most significant part of your E-commerce strategy.
+We have built great pricing related products that E-commerce stores owner love and we want to share with you what we think are 7 numbers about pricing that you should know.
+
+There are lots of great advices out there to increase conversion rates for online merchants. A great design, a fast website, a great checkout experience, upsells, email marketing, abandonned checkout retargeting... 
+But those strategies won't have a great impact on your conversion rates if your pricing is higher than your competitors. 
+
+The other issue is that there are more and more consumer app/website for price comparaison, with millions of users. The largest is of course Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/) ... So it's easy for consumers to find good deals
 
 #### 63 % of people are here to compare product prices.
 
-According to a recent PWC study, 61% of people visiting e-commerce websites are here to check prices whereas only 9% are looking for ideas.
+According to a recent PWC study, 61% of people visiting E-commerce websites are there to check prices whereas only 9% are looking for ideas.
 
 Suggestions are great and can significantly improve your average ticket/basket size, but do not forget that the customer will first and foremost look at the price. (1)
 
-#### 3 is the number of time your competitor will change his prices per quarter.
+#### 3 is the number of time your competitor will change his prices per month.
 
-Analyzing more than 1 million data points we discovered that on average a product price change approximately one time per month. But we also notice that more than 10% of the websites we monitor change their prices almost 1 time per week (3.7 times per month), on 50% of our client change their price with the same frequency. Those are the store that already understands the importance of pricing and of having [price monitoring tools](https://www.pricingbot.co) that automates the whole process.
+Analyzing more than 1 million data points we discovered that on average a product price change approximately three times per month. But we also notice that more than 10% of the websites we monitor change their prices almost 3 time per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
+
+We didn't include Amazon and several marketplaces in those results because Amazon uses a dynamic pricing algorithm, and can change its product prices every 10 minutes. (5)
 
 #### 65% of Consumers Look Up Price Comparisons on Mobile While in a Physical Store
 
-While this might not seem important if you run a pure player e-commerce store it highlights the fact that people do really care about pricing. And be sure that if someone sees on your store a product 10% cheaper than the one they are currently holding in their hands in a physical one, they are much more likely to spend money in your business. (2) See by yourself:
+While this might not seem important if you run a pure player E-commerce store it highlights the fact that people do really care about pricing. And be sure that if someone sees on your store a product 10% cheaper than the one they are currently holding in their hands in a physical one, they are much more likely to spend money in your business. (2) See by yourself:
 
 #### 34% of people buying from your store matched price online just prior to the purchase.
 
@@ -44,11 +51,13 @@ When asked about what is the most important attributes for deciding where to buy
 Even when a customer made the decision to add the product to his basket, one out of five will still check elsewhere the price and leave your e-commerce if they find it cheaper elsewhere. (4)
 
 
+
 ##### Sources:
 
 1. [PWC E-commerce and consumer goods](https://web.archive.org/web/20181013000803/https://www.strategyand.pwc.com/media/file/Strategyand_E-Commerce-and-Consumer-Goods.pdf)
 2. [KPMG Global Online Consumer Report](https://assets.kpmg/content/dam/kpmg/ru/pdf/2017/03/ru-en-the-truth-about-online-consumers-global-and-russia.pdf)
 3. [Big Commerce 2018 Omnichannel Buying Report](https://grow.bigcommerce.com/rs/695-JJT-333/images/report-2018-omnichannel-buying.pdf?mkt_tok=eyJpIjoiTkRrek5XWXhNelZpTURKbCIsInQiOiI3U2xaMEtQc3VaUVdIUUx6NllPMkV3WjBxNVprRmJHQWFQTFNoTURIeSs4RDNxN3BBaFNLSlNxSlpvakptYXNHdytEVUVGaWw0T3dxb2FBUFNzbU9oVldBZWxEVXI4MHdldGhrYThneFpzaEtqdlBVVFFMSEVCSk81dHY0TVNtQiJ9)
 4. [Namagoo](https://go.namogoo.com/customer_survey_ebook_2018.html?FirstName=Pierre&LastName=de+Wulf&Title=COO&Company=PricingBot&Website=pricingbot.com&Email=hello%40pricingbot.com&Phone=%2B33616558746&utm_source__c=namogoo&utm_medium__c=blog&utm_campaign__c=&utm_content__c=&utm_term__c=&formid=1220&lpId=1083&subId=99&munchkinId=816-KOV-396&lpurl=%2F%2Fgo.namogoo.com%2Fcustomer_survey_ebook_2018.html%3Fcr%3D%7Bcreative%7D%26kw%3D%7Bkeyword%7D&cr=&kw=&q=)
+5. [Business Insider](https://www.businessinsider.fr/us/amazon-price-changes-2018-8)
 
-##### Thanks for reading !
+Thanks for reading !
