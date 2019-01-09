@@ -36,16 +36,12 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: pricingbot # jekyll-seo-tag > Owners twitter username
+  username: PricingBotHQ # jekyll-seo-tag > Owners twitter username
 author: PricingBot # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: PricingBot # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/PricingBotHQ
 
 #theme
 theme: alembic-jekyll-theme
@@ -101,10 +97,6 @@ navigation_footer:
   PricingBot: https://www.pricingbot.co
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
   link: https://www.pricingbot.co
   RSS: /feed.xml
 
