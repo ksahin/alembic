@@ -14,7 +14,7 @@ Those things are very important but those strategies won't have a deep impact on
 
 There are more and more consumer apps/websites for price comparison, with millions of users. The largest is, of course, Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/), ... so price is now an easy information for the user to find and you can be sure it matters. In fact it matters a lot.
 
-Here are 7 numbers that should make you really understand how important pricing is. At [PricingBot](https://www.pricingbot.co) we strongly believe that pricing should be a significant, if not, the most significant part of your E-commerce strategy.
+Here are 7 numbers that should make you really understand how important pricing is. At [PricingBot](https://www.pricingbot.co/?utm_source=blog&utm_medium=post&utm_campaign=post1) we strongly believe that pricing should be a significant, if not, the most significant part of your E-commerce strategy.
 We have built great pricing related products that E-commerce owners love and we want to share with you what we think are the 7 numbers about pricing that you should know.
 
 #### 63 % of people are here to compare product prices.
@@ -27,7 +27,7 @@ Suggestions are great and can significantly improve your average ticket/basket s
 
 ![Chart of price changes per month](/assets/images/post3/chart-price-change.jpg){: .center-image }
 
-Analyzing more than 1 million data points we discovered that on average a product price change approximately four times per month. We also noticed that more than 10% of the websites we monitor change their prices almost 3 times per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
+Analyzing more than 1 million data points we discovered that on average a product price change approximately four times per month. We also noticed that more than 10% of the websites we monitor change their prices almost 3 times per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co/?utm_source=blog&utm_medium=post&utm_campaign=post1).
 
 We didn't include Amazon and several marketplaces in those results because Amazon uses a dynamic pricing algorithm, and can change its product prices every 10 minutes. (5)
 
@@ -45,7 +45,7 @@ When asked about what is the most important attributes for deciding where to buy
 
 #### It can take up to 120 hours a month to efficiently monitor 300 product.
 
-[Price-monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed a solution that allows you to automatically track all your competitor’s product prices while only spending 2 minutes setting up your account.
+[Price-monitoring](https://www.pricingbot.co/?utm_source=blog&utm_medium=post&utm_campaign=post1) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed a solution that allows you to automatically track all your competitor’s product prices while only spending 2 minutes setting up your account.
 
 #### 20% of people leave checkout because they found the product cheaper elsewhere.
 
