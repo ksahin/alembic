@@ -6,7 +6,7 @@ categories:
 - e-commerce
 feature_image: "/assets/images/post3/neonbrand-258972-unsplash.jpg"
 image: "/assets/images/post3/neonbrand-258972-unsplash.jpg"
-description: "7 Numbers every e-commerce owners should know about or how price monitoring is very important."
+description: "7 Numbers every e-commerce owners should know about pricing or how price monitoring is very important."
 ---
 
 
@@ -26,7 +26,9 @@ Suggestions are great and can significantly improve your average ticket/basket s
 
 #### 3 is the number of time your competitor will change his prices per month.
 
-Analyzing more than 1 million data points we discovered that on average a product price change approximately three times per month. But we also notice that more than 10% of the websites we monitor change their prices almost 3 time per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
+![Chart of price changes per month](/assets/images/post3/chart-price-change.jpg)
+
+Analyzing more than 1 million data points we discovered that on average a product price change approximately four times per month. But we also noticed that more than 10% of the websites we monitor change their prices almost 3 times per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
 
 We didn't include Amazon and several marketplaces in those results because Amazon uses a dynamic pricing algorithm, and can change its product prices every 10 minutes. (5)
 
