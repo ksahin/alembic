@@ -13,32 +13,32 @@ description: "7 Numbers every e-commerce owners should know about pricing or how
 Here are 7 numbers that should make you really understand how important pricing is. At [PricingBot](https://www.pricingbot.co) we strongly believe that pricing should be a significant, if not, the most significant part of your E-commerce strategy.
 We have built great pricing related products that E-commerce owners love and we want to share with you what we think are the 7 numbers about pricing that you should know.
 
-There are lots of great advices out there to increase conversion rates for online merchants. A great design, a fast website, a great checkout experience, upsells, email marketing, abandonned checkout retargeting... 
-But those strategies won't have a deep impact on your conversion rates if your pricing is higher than your competitors. 
+There are lots of great advice out there to increase conversion rates for online merchants. A great design, a fast website, a great checkout experience, upsells, email marketing, abandoned checkout retargeting...
+Those things are very important but those strategies won't have a deep impact on your conversion rates if your pricing is wrong.
 
-The other issue is that there are more and more consumer apps/websites for price comparaison, with millions of users. The largest is of course Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/) ... So it's easy for consumers to find good deals
+There are more and more consumer apps/websites for price comparison, with millions of users. The largest is, of course, Google Shopping, but there are many others like [ShoptoList](https://www.shoptolist.com), [Price Grabber](http://www.pricegrabber.com/), ... so price is now an easy information for the user to find and you can be sure it matters. In fact it matters a lot:
 
 #### 63 % of people are here to compare product prices.
 
 According to a recent PWC study, 61% of people visiting E-commerce websites are there to check prices whereas only 9% are looking for ideas.
 
-Suggestions are great and can significantly improve your average ticket/basket size, but do not forget that the customer will first and foremost look at the price. (1)
+Suggestions are great and can significantly improve your average ticket/basket size but do not forget that the customer will first and foremost look at the price. (1)
 
 #### 3 is the number of time your competitor will change his prices per month.
 
 ![Chart of price changes per month](/assets/images/post3/chart-price-change.jpg)
 
-Analyzing more than 1 million data points we discovered that on average a product price change approximately four times per month. But we also noticed that more than 10% of the websites we monitor change their prices almost 3 times per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
+Analyzing more than 1 million data points we discovered that on average a product price change approximately four times per month. We also noticed that more than 10% of the websites we monitor change their prices almost 3 times per week (12.8 times per month), 50% of our clients change their prices with the same frequency. Those are merchants that already understands the importance of having [price monitoring tools](https://www.pricingbot.co).
 
 We didn't include Amazon and several marketplaces in those results because Amazon uses a dynamic pricing algorithm, and can change its product prices every 10 minutes. (5)
 
 #### 65% of Consumers Look Up Price Comparisons on Mobile While in a Physical Store
 
-While this might not seem important if you run a pure player E-commerce store it highlights the fact that people do really care about pricing. And be sure that if someone sees on your store a product 10% cheaper than the one they are currently holding in their hands in a physical one, they are much more likely to spend money in your business. (2) See by yourself:
+While this might not seem important if you run a pure player E-commerce store it highlights the fact that people do really care about pricing. And be sure that if someone sees on your store a product 10% cheaper than the one they are currently holding in their hands in a physical location, they are much more likely to spend money in your business. (2) See by yourself:
 
 #### 34% of people buying from your store matched price online just prior to the purchase.
 
-Approximately 1 out of 3 buyers will see your product because they were checking the price online. It is more than the number of people that will make a purchase just after seing an ad online (30%). Here again, you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
+Approximately 1 out of 3 buyers will see your product because they were checking the price online. It is more than the number of people that will make a purchase just after seeing an ad online (30%). Here again, you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
 
 #### 1st attribute when deciding where to buy if pricing.
 
@@ -46,11 +46,11 @@ When asked about what is the most important attributes for deciding where to buy
 
 #### It can take up to 120 hours a month to efficiently monitor 300 product.
 
-[Price monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed our solution that allows you to automatically track all your competitor’s product prices while only spending 2 minutes setting up your account.
+[Price-monitoring](https://www.pricingbot.co) takes time, we calculated that checking prices can take up to 40 hours for small size e-commerce with 100 SKUs and two competitors for each of their products. This is why we developed a solution that allows you to automatically track all your competitor’s product prices while only spending 2 minutes setting up your account.
 
 #### 20% of people leave checkout because they found the product cheaper elsewhere.
 
-Even when a customer made the decision to add the product to his basket, one out of five will still check elsewhere the price and leave your e-commerce if they find it cheaper elsewhere. (4)
+Even when a customer made the decision to add the product to his basket, one out of five will still check elsewhere the price and leave your e-commerce if they find it cheaper there. (4)
 
 
 
