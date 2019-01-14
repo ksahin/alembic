@@ -19,7 +19,7 @@ We have built great pricing related products that E-commerce owners love and we 
 
 #### 63 % of people are here to compare product prices.
 
-According to a recent PWC study, 61% of people visiting E-commerce websites are there to check prices whereas only 9% are looking for ideas.
+According to a recent PWC study, 63% of people visiting E-commerce websites are there to check prices whereas only 9% are looking for ideas.
 
 Suggestions are great and can significantly improve your average ticket/basket size but do not forget that the customer will first and foremost look at the price. (1)
 
