@@ -59,9 +59,8 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "Our articles and tutorials" # The post list page content
-    feature_text: |
-      Welcome to the PricingBot blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_text:
+    feature_image: "/assets/pcb_header.png"
 
 # 6. Jekyll collections settings
 defaults:
