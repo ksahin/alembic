@@ -39,9 +39,9 @@ While this might not seem important if you run a pure player E-commerce store it
 
 Approximately 1 out of 3 buyers will see your product because they were checking the price online. It is more than the number of people that will make a purchase just after seeing an ad online (30%). Here again, you can see that having a powerful and efficient pricing strategy can be as efficient as having effective ads. Of course, advertising should not be underestimated but be sure to measure the whole importance of your pricing strategy too. (3)
 
-#### 1st attribute when deciding where to buy if pricing.
+#### 1st criteria when deciding where to buy is pricing.
 
-When asked about what is the most important attributes for deciding where to buy 36% of people answered pricing, whereas only 14% chose stock availability and 1% return policy. Once again it shows that pricing matters, and it matters a lot. (2)
+When asked about what is the most important criteria for deciding where to buy 36% of people answered pricing, whereas only 14% chose stock availability and 1% return policy. Once again it shows that pricing matters, and it matters a lot. (2)
 
 #### It can take up to 120 hours a month to efficiently monitor 300 product.
 
