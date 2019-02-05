@@ -31,6 +31,10 @@ plugins:
 - jekyll-feed
 - jemoji
 
+# Include _redirects file for netlify redirects (files starting by _ are excluded by default)
+include:
+- _redirects
+
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
@@ -76,7 +80,7 @@ lang: en-GB # Set the site language
 title: "PricingBot" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "PricingBot blog covers the last trends in eCommerce / marketplace, strategies for online price monitoring and pricing." # Site description and default description, also used in jekyll-seo-tag
-url: "https://blog.pricingbot.co" # Site url, also used in jekyll-seo-tag
+url: "https://www.pricingbot.co/blog/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "hello@pricingbot.co"
@@ -89,7 +93,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Blog: /blog/
+  Blog: /posts/
   Categories: /categories/
 
 navigation_footer:
